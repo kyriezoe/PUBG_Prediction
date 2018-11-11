@@ -3,7 +3,7 @@
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? This is what we are looking into！
 
 ## Data Preprocessing
-Since original .csv files contain entried of different game modes, they are extremely large and time-consuming to handle. Without generality we look into exclusively solo mode on current stage. SoloSelect.py is to delete entries in other modes and output new files as solo_train.csv and solo_test.csv.   
+Since original .csv files contain entried of different game modes, they are extremely large and time-consuming to handle. Without generality we look into exclusively solo mode (still 181,943 entries though...) on current stage. SoloSelect.py is to delete entries in other modes and output new files as solo_train.csv and solo_test.csv.   
 
 ## Correlation Analysis
 We use SPSS to do linear regression, analysing which are the most important factors in determining Finish Placement.
