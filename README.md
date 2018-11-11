@@ -1,5 +1,5 @@
 # PUBG_Finish_Placement_Prediction
-[`Kaggle`](https://www.kaggle.com/c/pubg-finish-placement-prediction) match done in `MadHacks` @[Madison](https://www.madhacks.io/). 
+[`Kaggle`](https://www.kaggle.com/c/pubg-finish-placement-prediction) game done in `MadHacks`@[Madison](https://www.madhacks.io/). 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? This is what we are looking into！
 
 ## Data description
