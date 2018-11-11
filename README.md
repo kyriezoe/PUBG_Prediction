@@ -14,4 +14,4 @@ Since original .csv files contain entried of different game modes, they are extr
 We use SPSS to do linear regression, analysing which are the most important factors in determining Finish Placement. Only variables related to solo mode are considered. Results in Output.htm are explained here. As our model works stepwise, the first independent invariable in table Variables Entered/Removed is most relevant to Finish Placement. The walkDistance comes first and heals comes last and so on. <br>Regression equation considering top 5 relevant factors is generated from table Coefficients: <br>`winPlacePerc = .498 * walkDistance - .239 * killPlace + .147 * weaponsAcquired + .096 * rideDistance + .114 * boosts` <br>So, don't be too cautious! Walk around and find someone to fight:)
 
 ## What's next?
-Good question! It's just a kickstart of our fight (yes, fight) in Kaggle. Later we'll see whether we can predict Finish Placement accurately. Of course, that is much less interesting. 
+Good question! It's just a kickstart of our fight (yes, fight) in Kaggle. Later we'll see whether we can predict Finish Placement accurately. 
