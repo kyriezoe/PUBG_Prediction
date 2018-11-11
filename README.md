@@ -2,6 +2,8 @@
 [`Kaggle`](https://www.kaggle.com/c/pubg-finish-placement-prediction) game done in `MadHacks`@[Madison](https://www.madhacks.io/). 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? This is what we are looking into！
 
+![](https://github.com/kyriezoe/PUBG_Prediction/blob/master/PUBG%20Inlay.jpg)
+
 ## Data description
 Dependent variable and independent variables are described in Variables.txt
 
