@@ -5,7 +5,7 @@ What's the best strategy to win in PUBG? Should you sit in one spot and hide you
 ## Data Preprocessing
 Since original .csv files contain entried of different game modes, they are extremely large and time-consuming to handle. Without generality we look into exclusively solo mode (still 181,943 entries though...) on current stage. SoloSelect.py is to delete entries in other modes and output new files as solo_train.csv and solo_test.csv.   
 
-## Correlation Analysis
+## Correlation analysis
 We use SPSS to do linear regression, analysing which are the most important factors in determining Finish Placement.
 Results in Output.htm are explained here. As our model works stepwise, the first independent invariable in Table Variables Entered/Removed is most relevant to Finish Placement. The walkDistance comes first and heals comes last and so on. So, don't be too cautious! Walk around and someone to fight:)  <br>Regression equation considering top 5 relevant factors is generated from Table Coefficients: <br>winPlacePerc = .498 * walkDistance - .239 * killPlace + .147 * weaponAcquired + .096 * rideDistance + .114 * boosts<br/>  OMG, you should really go far and seek your chance:)
 
