@@ -3,7 +3,6 @@
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? This is what we are looking into！
 
 ## Data description
-Sorry, a bit lengthy:)
 <br>`Dependent variable`:
 <br>winPlacePerc - The target of prediction. This is a percentile winning placement, where 1 corresponds to 1st place, and 0 corresponds to last place in the match. It is calculated off of maxPlace, not numGroups, so it is possible to have missing chunks in a match.
 <br>`Independent variables`:
