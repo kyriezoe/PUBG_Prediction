@@ -1,11 +1,11 @@
-# PUBG_Finish_Placement_Prediction
+# PUBG Finish Placement Prediction
 [`Kaggle`](https://www.kaggle.com/c/pubg-finish-placement-prediction) game done in `MadHacks`@[Madison](https://www.madhacks.io/). 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? This is what we are looking into！
 
 ## Data description
 Dependent variable and independent variables are described in Variables.txt
 
-## Data Preprocessing
+## Data preprocessing
 Since original .csv files contain entried of different game modes, they are extremely large and time-consuming to handle. Without generality we look into exclusively solo mode (still 181,943 entries though...) on current stage. SoloSelect.py is to delete entries in other modes and output new files as solo_train.csv and solo_test.csv.   
 
 ## Correlation analysis
